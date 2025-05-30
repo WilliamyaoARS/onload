@@ -124,7 +124,7 @@ Additional packaging options
  - Optional sub-packages
 
    When building RPM or DEB packages, all sub-packages are built by default，
-   more or les including onload, onload-kmod, onload-akmod, onload-devel,
+   more or less including onload, onload-kmod, onload-akmod, onload-devel,
    onload-dkms.
    It is now possible to choose outputs. For example, to build only userland
    and DKMS sub-packages:
